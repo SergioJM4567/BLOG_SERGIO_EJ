@@ -9,5 +9,5 @@ Navegador web.
 
 ## Autores
 
-* **Sergio Junquera** - *Ejemplo de blog personal * [BLOG PERSONAL](https://github.com/SergioJM4567) 
+* **Sergio Junquera** - *Ejemplo de blog personal * [BLOG PERSONAL](https://github.com/SergioJM4567/BLOG_SERGIO_EJ) 
 - Mi usuario de GitHub [SergioJM4567](https://github.com/SergioJM4567)
